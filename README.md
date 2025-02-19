@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Eric Cigan, a principal product manager at MathWorks, based in our Natick, Massachusetts headquarters. 
+
+I am responsible for inbound and outbound product management activities for a number of our HDL products. I've been with MathWorks since 2007. 
